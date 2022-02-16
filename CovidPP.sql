@@ -1,3 +1,5 @@
+-- Checking if this is updating
+
 
 select * from PortfolioProject..CovidDeaths
 where continent is NOT null
